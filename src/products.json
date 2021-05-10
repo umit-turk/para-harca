@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title": "sakız",
+        "price":0.5,
+        "image":"https://cdn.rossmann.com.tr/mnresize/414/414/media/catalog/product/8/0/80593874_RS_602a72b8d0cc8.jpg"
+    },
+    {
+        "id":2,
+        "title":"kola",
+        "price":6,
+        "image":"https://www.officexpress.com.tr/images/thumbs/0002396_coca-cola-kutu-kola-24-lu-330-ml_510.jpeg"
+    },
+    {
+        "id":3,
+        "title":"Ayakkabı",
+        "price":600,
+        "image":"https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg"
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price":50000,
+        "image":"https://cdn-nq.toyzzshop.com/product/600x600/0f06b_Metal_Cek_Birak_Murat_131_Araba.jpg"
+    }
+]
